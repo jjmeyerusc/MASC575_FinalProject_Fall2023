@@ -1,0 +1,881 @@
+==========================================
+SLURM_JOB_ID = 17995491
+SLURM_JOB_NODELIST = d06-24
+TMPDIR = /tmp/SLURM_17995491
+==========================================
+gfortran -fopenmp -O3 module.f90 md.f90
+ # of atoms is         864  Density is    1.0597273759711887     
+ Temperature scaled to  0.29999999999999999     
+    50 E= -6.3120101 PE=  -6.747755 KE=   0.435745
+   100 E= -6.3120099 PE=  -6.706892 KE=   0.394882
+   150 E= -6.3120097 PE=  -6.645119 KE=   0.333109
+   200 E= -6.3120094 PE=  -6.571993 KE=   0.259983
+   250 E= -6.3120091 PE=  -6.500166 KE=   0.188157
+   300 E= -6.3120089 PE=  -6.442866 KE=   0.130857
+   350 E= -6.3120088 PE=  -6.409876 KE=   0.097867
+   400 E= -6.3120089 PE=  -6.404068 KE=   0.092059
+   450 E= -6.3120092 PE=  -6.420874 KE=   0.108865
+   500 E= -6.3120094 PE=  -6.450986 KE=   0.138976
+grcutoff :    4.67100
+   550 E= -6.3120096 PE=  -6.484278 KE=   0.172268 Meansq displacement=   0.000031
+   600 E= -6.3120097 PE=  -6.512799 KE=   0.200789 Meansq displacement=   0.000135
+   650 E= -6.3120097 PE=  -6.532066 KE=   0.220056 Meansq displacement=   0.000324
+   700 E= -6.3120097 PE=  -6.541024 KE=   0.229014 Meansq displacement=   0.000600
+   750 E= -6.3120096 PE=  -6.541322 KE=   0.229312 Meansq displacement=   0.000955
+   800 E= -6.3120095 PE=  -6.536321 KE=   0.224312 Meansq displacement=   0.001374
+   850 E= -6.3120094 PE=  -6.530022 KE=   0.218013 Meansq displacement=   0.001836
+   900 E= -6.3120093 PE=  -6.525994 KE=   0.213985 Meansq displacement=   0.002322
+   950 E= -6.3120093 PE=  -6.526536 KE=   0.214527 Meansq displacement=   0.002811
+  1000 E= -6.3120093 PE=  -6.532272 KE=   0.220263 Meansq displacement=   0.003290
+ T =   0.14032100687205887       Cv =  -0.11598979430044438     
+ Pressure =    1.4916504817963301     
+ # of atoms is         864  Density is    1.0597273759711887     
+ Temperature scaled to  0.29999999999999999     
+    50 E= -6.0822724 PE=  -6.538534 KE=   0.456262
+   100 E= -6.0822725 PE=  -6.533427 KE=   0.451154
+   150 E= -6.0822724 PE=  -6.517282 KE=   0.435010
+   200 E= -6.0822723 PE=  -6.492042 KE=   0.409770
+   250 E= -6.0822722 PE=  -6.461002 KE=   0.378730
+   300 E= -6.0822722 PE=  -6.428453 KE=   0.346181
+   350 E= -6.0822720 PE=  -6.398966 KE=   0.316694
+   400 E= -6.0822720 PE=  -6.376292 KE=   0.294020
+   450 E= -6.0822720 PE=  -6.362438 KE=   0.280166
+   500 E= -6.0822720 PE=  -6.357570 KE=   0.275298
+grcutoff :    4.67100
+   550 E= -6.0822721 PE=  -6.360605 KE=   0.278333 Meansq displacement=   0.000055
+   600 E= -6.0822721 PE=  -6.369809 KE=   0.287537 Meansq displacement=   0.000220
+   650 E= -6.0822722 PE=  -6.383103 KE=   0.300830 Meansq displacement=   0.000493
+   700 E= -6.0822722 PE=  -6.398227 KE=   0.315955 Meansq displacement=   0.000871
+   750 E= -6.0822723 PE=  -6.413017 KE=   0.330745 Meansq displacement=   0.001349
+   800 E= -6.0822722 PE=  -6.425782 KE=   0.343510 Meansq displacement=   0.001918
+   850 E= -6.0822723 PE=  -6.435620 KE=   0.353348 Meansq displacement=   0.002565
+   900 E= -6.0822722 PE=  -6.442440 KE=   0.360167 Meansq displacement=   0.003275
+   950 E= -6.0822722 PE=  -6.446690 KE=   0.364418 Meansq displacement=   0.004028
+  1000 E= -6.0822722 PE=  -6.448954 KE=   0.366682 Meansq displacement=   0.004806
+ T =   0.21710503125682468       Cv =  -0.12939243739041026     
+ Pressure =    2.2195474122309129     
+ # of atoms is         864  Density is    1.0597273759711887     
+ Temperature scaled to  0.29999999999999999     
+    50 E= -5.9989544 PE=  -6.446937 KE=   0.447982
+   100 E= -5.9989544 PE=  -6.438260 KE=   0.439305
+   150 E= -5.9989543 PE=  -6.424593 KE=   0.425638
+   200 E= -5.9989542 PE=  -6.408661 KE=   0.409707
+   250 E= -5.9989542 PE=  -6.393383 KE=   0.394429
+   300 E= -5.9989542 PE=  -6.381014 KE=   0.382060
+   350 E= -5.9989541 PE=  -6.372852 KE=   0.373898
+   400 E= -5.9989542 PE=  -6.369192 KE=   0.370238
+   450 E= -5.9989542 PE=  -6.369429 KE=   0.370475
+   500 E= -5.9989542 PE=  -6.372271 KE=   0.373316
+grcutoff :    4.67100
+   550 E= -5.9989543 PE=  -6.376071 KE=   0.377117 Meansq displacement=   0.000075
+   600 E= -5.9989543 PE=  -6.379362 KE=   0.380407 Meansq displacement=   0.000298
+   650 E= -5.9989543 PE=  -6.381368 KE=   0.382413 Meansq displacement=   0.000663
+   700 E= -5.9989543 PE=  -6.382132 KE=   0.383178 Meansq displacement=   0.001157
+   750 E= -5.9989543 PE=  -6.382151 KE=   0.383197 Meansq displacement=   0.001764
+   800 E= -5.9989543 PE=  -6.381910 KE=   0.382955 Meansq displacement=   0.002461
+   850 E= -5.9989542 PE=  -6.381688 KE=   0.382733 Meansq displacement=   0.003227
+   900 E= -5.9989542 PE=  -6.381593 KE=   0.382638 Meansq displacement=   0.004035
+   950 E= -5.9989543 PE=  -6.381625 KE=   0.382670 Meansq displacement=   0.004862
+  1000 E= -5.9989543 PE=  -6.381725 KE=   0.382770 Meansq displacement=   0.005684
+ T =   0.25438279148303150       Cv =    1.5873545289860937     
+ Pressure =    2.4126726439459070     
+ # of atoms is         864  Density is    1.0597273759711887     
+ Temperature scaled to  0.29999999999999999     
+    50 E= -5.9317246 PE=  -6.379403 KE=   0.447678
+   100 E= -5.9317246 PE=  -6.372661 KE=   0.440936
+   150 E= -5.9317245 PE=  -6.362885 KE=   0.431161
+   200 E= -5.9317245 PE=  -6.352135 KE=   0.420410
+   250 E= -5.9317244 PE=  -6.342539 KE=   0.410815
+   300 E= -5.9317245 PE=  -6.335679 KE=   0.403955
+   350 E= -5.9317245 PE=  -6.332250 KE=   0.400525
+   400 E= -5.9317245 PE=  -6.332124 KE=   0.400399
+   450 E= -5.9317245 PE=  -6.334677 KE=   0.402953
+   500 E= -5.9317245 PE=  -6.339099 KE=   0.407374
+grcutoff :    4.67100
+   550 E= -5.9317246 PE=  -6.344620 KE=   0.412896 Meansq displacement=   0.000082
+   600 E= -5.9317245 PE=  -6.350706 KE=   0.418982 Meansq displacement=   0.000326
+   650 E= -5.9317245 PE=  -6.357109 KE=   0.425384 Meansq displacement=   0.000728
+   700 E= -5.9317246 PE=  -6.363664 KE=   0.431940 Meansq displacement=   0.001276
+   750 E= -5.9317246 PE=  -6.369927 KE=   0.438203 Meansq displacement=   0.001956
+   800 E= -5.9317246 PE=  -6.375024 KE=   0.443300 Meansq displacement=   0.002748
+   850 E= -5.9317246 PE=  -6.378023 KE=   0.446298 Meansq displacement=   0.003629
+   900 E= -5.9317246 PE=  -6.378457 KE=   0.446733 Meansq displacement=   0.004575
+   950 E= -5.9317246 PE=  -6.376521 KE=   0.444796 Meansq displacement=   0.005556
+  1000 E= -5.9317246 PE=  -6.372863 KE=   0.441139 Meansq displacement=   0.006544
+ T =   0.28892703893928640       Cv =   -11.668155316758153     
+ Pressure =    2.5384701780713081     
+ # of atoms is         864  Density is    1.0597273759711887     
+ Temperature scaled to  0.29999999999999999     
+    50 E= -5.9228632 PE=  -6.367846 KE=   0.444983
+   100 E= -5.9228632 PE=  -6.361692 KE=   0.438829
+   150 E= -5.9228632 PE=  -6.354717 KE=   0.431854
+   200 E= -5.9228631 PE=  -6.347446 KE=   0.424583
+   250 E= -5.9228631 PE=  -6.340890 KE=   0.418027
+   300 E= -5.9228631 PE=  -6.336218 KE=   0.413355
+   350 E= -5.9228631 PE=  -6.334126 KE=   0.411263
+   400 E= -5.9228631 PE=  -6.334492 KE=   0.411628
+   450 E= -5.9228631 PE=  -6.336491 KE=   0.413628
+   500 E= -5.9228632 PE=  -6.339107 KE=   0.416244
+grcutoff :    4.67100
+   550 E= -5.9228632 PE=  -6.341703 KE=   0.418840 Meansq displacement=   0.000083
+   600 E= -5.9228632 PE=  -6.344210 KE=   0.421346 Meansq displacement=   0.000331
+   650 E= -5.9228632 PE=  -6.346905 KE=   0.424042 Meansq displacement=   0.000735
+   700 E= -5.9228632 PE=  -6.350014 KE=   0.427151 Meansq displacement=   0.001283
+   750 E= -5.9228632 PE=  -6.353361 KE=   0.430498 Meansq displacement=   0.001958
+   800 E= -5.9228632 PE=  -6.356257 KE=   0.433394 Meansq displacement=   0.002738
+   850 E= -5.9228632 PE=  -6.357723 KE=   0.434859 Meansq displacement=   0.003601
+   900 E= -5.9228632 PE=  -6.356908 KE=   0.434045 Meansq displacement=   0.004520
+   950 E= -5.9228632 PE=  -6.353578 KE=   0.430715 Meansq displacement=   0.005466
+  1000 E= -5.9228632 PE=  -6.348471 KE=   0.425607 Meansq displacement=   0.006409
+  1050 E= -5.9228631 PE=  -6.343161 KE=   0.420298 Meansq displacement=   0.007319
+  1100 E= -5.9228631 PE=  -6.339276 KE=   0.416413 Meansq displacement=   0.008167
+  1150 E= -5.9228631 PE=  -6.337743 KE=   0.414880 Meansq displacement=   0.008931
+  1200 E= -5.9228631 PE=  -6.338896 KE=   0.416033 Meansq displacement=   0.009593
+  1250 E= -5.9228631 PE=  -6.342889 KE=   0.420026 Meansq displacement=   0.010141
+  1300 E= -5.9228631 PE=  -6.349579 KE=   0.426716 Meansq displacement=   0.010574
+  1350 E= -5.9228632 PE=  -6.358094 KE=   0.435231 Meansq displacement=   0.010893
+  1400 E= -5.9228632 PE=  -6.366736 KE=   0.443873 Meansq displacement=   0.011110
+  1450 E= -5.9228633 PE=  -6.373421 KE=   0.450557 Meansq displacement=   0.011236
+  1500 E= -5.9228633 PE=  -6.376447 KE=   0.453584 Meansq displacement=   0.011289
+  1550 E= -5.9228632 PE=  -6.375186 KE=   0.452323 Meansq displacement=   0.011281
+  1600 E= -5.9228632 PE=  -6.370221 KE=   0.447358 Meansq displacement=   0.011223
+  1650 E= -5.9228632 PE=  -6.362866 KE=   0.440003 Meansq displacement=   0.011125
+  1700 E= -5.9228631 PE=  -6.354540 KE=   0.431677 Meansq displacement=   0.010992
+  1750 E= -5.9228632 PE=  -6.346506 KE=   0.423643 Meansq displacement=   0.010830
+  1800 E= -5.9228631 PE=  -6.339941 KE=   0.417078 Meansq displacement=   0.010643
+  1850 E= -5.9228631 PE=  -6.335872 KE=   0.413009 Meansq displacement=   0.010437
+  1900 E= -5.9228631 PE=  -6.334841 KE=   0.411978 Meansq displacement=   0.010216
+  1950 E= -5.9228632 PE=  -6.336581 KE=   0.413718 Meansq displacement=   0.009987
+  2000 E= -5.9228632 PE=  -6.339984 KE=   0.417121 Meansq displacement=   0.009757
+  2050 E= -5.9228632 PE=  -6.343484 KE=   0.420621 Meansq displacement=   0.009533
+  2100 E= -5.9228632 PE=  -6.345691 KE=   0.422828 Meansq displacement=   0.009320
+  2150 E= -5.9228632 PE=  -6.345922 KE=   0.423059 Meansq displacement=   0.009122
+  2200 E= -5.9228632 PE=  -6.344441 KE=   0.421578 Meansq displacement=   0.008938
+  2250 E= -5.9228632 PE=  -6.342333 KE=   0.419470 Meansq displacement=   0.008766
+  2300 E= -5.9228631 PE=  -6.340975 KE=   0.418111 Meansq displacement=   0.008603
+  2350 E= -5.9228631 PE=  -6.341503 KE=   0.418640 Meansq displacement=   0.008445
+  2400 E= -5.9228631 PE=  -6.344478 KE=   0.421615 Meansq displacement=   0.008292
+  2450 E= -5.9228631 PE=  -6.349648 KE=   0.426785 Meansq displacement=   0.008145
+  2500 E= -5.9228631 PE=  -6.355975 KE=   0.433112 Meansq displacement=   0.008007
+  2550 E= -5.9228632 PE=  -6.362044 KE=   0.439181 Meansq displacement=   0.007884
+  2600 E= -5.9228632 PE=  -6.366556 KE=   0.443693 Meansq displacement=   0.007780
+  2650 E= -5.9228632 PE=  -6.368536 KE=   0.445673 Meansq displacement=   0.007701
+  2700 E= -5.9228632 PE=  -6.367393 KE=   0.444529 Meansq displacement=   0.007648
+  2750 E= -5.9228632 PE=  -6.363123 KE=   0.440259 Meansq displacement=   0.007624
+  2800 E= -5.9228632 PE=  -6.356488 KE=   0.433625 Meansq displacement=   0.007626
+  2850 E= -5.9228631 PE=  -6.348869 KE=   0.426006 Meansq displacement=   0.007651
+  2900 E= -5.9228631 PE=  -6.341911 KE=   0.419047 Meansq displacement=   0.007693
+  2950 E= -5.9228631 PE=  -6.337126 KE=   0.414263 Meansq displacement=   0.007748
+  3000 E= -5.9228631 PE=  -6.335432 KE=   0.412569 Meansq displacement=   0.007813
+  3050 E= -5.9228632 PE=  -6.336810 KE=   0.413946 Meansq displacement=   0.007886
+  3100 E= -5.9228632 PE=  -6.340367 KE=   0.417503 Meansq displacement=   0.007966
+  3150 E= -5.9228632 PE=  -6.344761 KE=   0.421897 Meansq displacement=   0.008054
+  3200 E= -5.9228632 PE=  -6.348710 KE=   0.425846 Meansq displacement=   0.008148
+  3250 E= -5.9228632 PE=  -6.351444 KE=   0.428580 Meansq displacement=   0.008246
+  3300 E= -5.9228632 PE=  -6.353034 KE=   0.430171 Meansq displacement=   0.008345
+  3350 E= -5.9228631 PE=  -6.354319 KE=   0.431456 Meansq displacement=   0.008440
+  3400 E= -5.9228631 PE=  -6.356184 KE=   0.433321 Meansq displacement=   0.008523
+  3450 E= -5.9228631 PE=  -6.358783 KE=   0.435920 Meansq displacement=   0.008593
+  3500 E= -5.9228632 PE=  -6.361522 KE=   0.438658 Meansq displacement=   0.008646
+  3550 E= -5.9228632 PE=  -6.363560 KE=   0.440697 Meansq displacement=   0.008683
+  3600 E= -5.9228632 PE=  -6.364159 KE=   0.441296 Meansq displacement=   0.008704
+  3650 E= -5.9228632 PE=  -6.362860 KE=   0.439997 Meansq displacement=   0.008709
+  3700 E= -5.9228632 PE=  -6.359701 KE=   0.436838 Meansq displacement=   0.008698
+  3750 E= -5.9228632 PE=  -6.355414 KE=   0.432550 Meansq displacement=   0.008669
+  3800 E= -5.9228631 PE=  -6.351301 KE=   0.428438 Meansq displacement=   0.008623
+  3850 E= -5.9228631 PE=  -6.348721 KE=   0.425858 Meansq displacement=   0.008559
+  3900 E= -5.9228631 PE=  -6.348366 KE=   0.425503 Meansq displacement=   0.008481
+  3950 E= -5.9228632 PE=  -6.349783 KE=   0.426919 Meansq displacement=   0.008393
+  4000 E= -5.9228632 PE=  -6.351602 KE=   0.428739 Meansq displacement=   0.008302
+  4050 E= -5.9228632 PE=  -6.352388 KE=   0.429524 Meansq displacement=   0.008217
+  4100 E= -5.9228632 PE=  -6.351476 KE=   0.428613 Meansq displacement=   0.008144
+  4150 E= -5.9228632 PE=  -6.349216 KE=   0.426353 Meansq displacement=   0.008086
+  4200 E= -5.9228632 PE=  -6.346493 KE=   0.423629 Meansq displacement=   0.008045
+  4250 E= -5.9228632 PE=  -6.344120 KE=   0.421257 Meansq displacement=   0.008022
+  4300 E= -5.9228632 PE=  -6.342737 KE=   0.419874 Meansq displacement=   0.008015
+  4350 E= -5.9228631 PE=  -6.342947 KE=   0.420084 Meansq displacement=   0.008025
+  4400 E= -5.9228631 PE=  -6.345099 KE=   0.422236 Meansq displacement=   0.008050
+  4450 E= -5.9228632 PE=  -6.348873 KE=   0.426010 Meansq displacement=   0.008089
+  4500 E= -5.9228632 PE=  -6.353178 KE=   0.430315 Meansq displacement=   0.008142
+  4550 E= -5.9228632 PE=  -6.356572 KE=   0.433709 Meansq displacement=   0.008211
+  4600 E= -5.9228632 PE=  -6.357939 KE=   0.435075 Meansq displacement=   0.008294
+  4650 E= -5.9228632 PE=  -6.356971 KE=   0.434107 Meansq displacement=   0.008387
+  4700 E= -5.9228632 PE=  -6.354132 KE=   0.431269 Meansq displacement=   0.008486
+  4750 E= -5.9228631 PE=  -6.350188 KE=   0.427325 Meansq displacement=   0.008583
+  4800 E= -5.9228632 PE=  -6.345793 KE=   0.422930 Meansq displacement=   0.008671
+  4850 E= -5.9228632 PE=  -6.341537 KE=   0.418673 Meansq displacement=   0.008743
+  4900 E= -5.9228631 PE=  -6.338266 KE=   0.415403 Meansq displacement=   0.008794
+  4950 E= -5.9228631 PE=  -6.337088 KE=   0.414224 Meansq displacement=   0.008818
+  5000 E= -5.9228631 PE=  -6.338743 KE=   0.415880 Meansq displacement=   0.008814
+  5050 E= -5.9228631 PE=  -6.342916 KE=   0.420053 Meansq displacement=   0.008783
+  5100 E= -5.9228632 PE=  -6.348292 KE=   0.425429 Meansq displacement=   0.008731
+  5150 E= -5.9228632 PE=  -6.353343 KE=   0.430480 Meansq displacement=   0.008662
+  5200 E= -5.9228632 PE=  -6.357020 KE=   0.434157 Meansq displacement=   0.008584
+  5250 E= -5.9228632 PE=  -6.358807 KE=   0.435944 Meansq displacement=   0.008502
+  5300 E= -5.9228632 PE=  -6.358408 KE=   0.435544 Meansq displacement=   0.008420
+  5350 E= -5.9228632 PE=  -6.355691 KE=   0.432828 Meansq displacement=   0.008341
+  5400 E= -5.9228632 PE=  -6.351113 KE=   0.428250 Meansq displacement=   0.008267
+  5450 E= -5.9228631 PE=  -6.346058 KE=   0.423195 Meansq displacement=   0.008195
+  5500 E= -5.9228631 PE=  -6.342440 KE=   0.419577 Meansq displacement=   0.008126
+  5550 E= -5.9228631 PE=  -6.341687 KE=   0.418824 Meansq displacement=   0.008057
+  5600 E= -5.9228631 PE=  -6.344026 KE=   0.421163 Meansq displacement=   0.007990
+  5650 E= -5.9228632 PE=  -6.348659 KE=   0.425796 Meansq displacement=   0.007928
+  5700 E= -5.9228631 PE=  -6.354399 KE=   0.431536 Meansq displacement=   0.007876
+  5750 E= -5.9228631 PE=  -6.360146 KE=   0.437283 Meansq displacement=   0.007838
+  5800 E= -5.9228631 PE=  -6.365102 KE=   0.442239 Meansq displacement=   0.007821
+  5850 E= -5.9228632 PE=  -6.368724 KE=   0.445860 Meansq displacement=   0.007826
+  5900 E= -5.9228632 PE=  -6.370477 KE=   0.447614 Meansq displacement=   0.007856
+  5950 E= -5.9228632 PE=  -6.369768 KE=   0.446905 Meansq displacement=   0.007912
+  6000 E= -5.9228632 PE=  -6.366256 KE=   0.443393 Meansq displacement=   0.007991
+  6050 E= -5.9228632 PE=  -6.360243 KE=   0.437380 Meansq displacement=   0.008087
+  6100 E= -5.9228632 PE=  -6.352733 KE=   0.429870 Meansq displacement=   0.008196
+  6150 E= -5.9228631 PE=  -6.345270 KE=   0.422407 Meansq displacement=   0.008307
+  6200 E= -5.9228631 PE=  -6.339582 KE=   0.416719 Meansq displacement=   0.008414
+  6250 E= -5.9228631 PE=  -6.336787 KE=   0.413924 Meansq displacement=   0.008510
+  6300 E= -5.9228632 PE=  -6.336663 KE=   0.413800 Meansq displacement=   0.008594
+  6350 E= -5.9228632 PE=  -6.337940 KE=   0.415077 Meansq displacement=   0.008664
+  6400 E= -5.9228632 PE=  -6.339255 KE=   0.416392 Meansq displacement=   0.008722
+  6450 E= -5.9228632 PE=  -6.339847 KE=   0.416984 Meansq displacement=   0.008770
+  6500 E= -5.9228632 PE=  -6.339781 KE=   0.416918 Meansq displacement=   0.008807
+  6550 E= -5.9228631 PE=  -6.339732 KE=   0.416869 Meansq displacement=   0.008834
+  6600 E= -5.9228631 PE=  -6.340467 KE=   0.417604 Meansq displacement=   0.008849
+  6650 E= -5.9228631 PE=  -6.342450 KE=   0.419587 Meansq displacement=   0.008854
+  6700 E= -5.9228631 PE=  -6.345840 KE=   0.422977 Meansq displacement=   0.008849
+  6750 E= -5.9228631 PE=  -6.350511 KE=   0.427648 Meansq displacement=   0.008835
+  6800 E= -5.9228632 PE=  -6.355912 KE=   0.433049 Meansq displacement=   0.008816
+  6850 E= -5.9228632 PE=  -6.361276 KE=   0.438413 Meansq displacement=   0.008796
+  6900 E= -5.9228632 PE=  -6.366133 KE=   0.443270 Meansq displacement=   0.008777
+  6950 E= -5.9228631 PE=  -6.370296 KE=   0.447432 Meansq displacement=   0.008764
+  7000 E= -5.9228632 PE=  -6.373229 KE=   0.450366 Meansq displacement=   0.008760
+  7050 E= -5.9228633 PE=  -6.373760 KE=   0.450897 Meansq displacement=   0.008766
+  7100 E= -5.9228632 PE=  -6.370599 KE=   0.447736 Meansq displacement=   0.008784
+  7150 E= -5.9228633 PE=  -6.363216 KE=   0.440353 Meansq displacement=   0.008810
+  7200 E= -5.9228632 PE=  -6.352426 KE=   0.429563 Meansq displacement=   0.008838
+  7250 E= -5.9228632 PE=  -6.340412 KE=   0.417549 Meansq displacement=   0.008860
+  7300 E= -5.9228631 PE=  -6.330172 KE=   0.407309 Meansq displacement=   0.008866
+  7350 E= -5.9228630 PE=  -6.324368 KE=   0.401505 Meansq displacement=   0.008848
+  7400 E= -5.9228631 PE=  -6.324024 KE=   0.401161 Meansq displacement=   0.008801
+  7450 E= -5.9228631 PE=  -6.328128 KE=   0.405265 Meansq displacement=   0.008726
+  7500 E= -5.9228632 PE=  -6.334464 KE=   0.411601 Meansq displacement=   0.008629
+  7550 E= -5.9228632 PE=  -6.340818 KE=   0.417954 Meansq displacement=   0.008516
+  7600 E= -5.9228633 PE=  -6.345812 KE=   0.422949 Meansq displacement=   0.008393
+  7650 E= -5.9228632 PE=  -6.349152 KE=   0.426289 Meansq displacement=   0.008267
+  7700 E= -5.9228632 PE=  -6.351314 KE=   0.428451 Meansq displacement=   0.008142
+  7750 E= -5.9228632 PE=  -6.352955 KE=   0.430092 Meansq displacement=   0.008020
+  7800 E= -5.9228631 PE=  -6.354463 KE=   0.431600 Meansq displacement=   0.007904
+  7850 E= -5.9228631 PE=  -6.355875 KE=   0.433012 Meansq displacement=   0.007798
+  7900 E= -5.9228631 PE=  -6.357095 KE=   0.434231 Meansq displacement=   0.007702
+  7950 E= -5.9228631 PE=  -6.358241 KE=   0.435378 Meansq displacement=   0.007621
+  8000 E= -5.9228632 PE=  -6.359776 KE=   0.436913 Meansq displacement=   0.007554
+  8050 E= -5.9228631 PE=  -6.362024 KE=   0.439161 Meansq displacement=   0.007503
+  8100 E= -5.9228632 PE=  -6.364499 KE=   0.441636 Meansq displacement=   0.007472
+  8150 E= -5.9228632 PE=  -6.366029 KE=   0.443166 Meansq displacement=   0.007461
+  8200 E= -5.9228632 PE=  -6.365636 KE=   0.442773 Meansq displacement=   0.007472
+  8250 E= -5.9228632 PE=  -6.363158 KE=   0.440294 Meansq displacement=   0.007503
+  8300 E= -5.9228632 PE=  -6.359149 KE=   0.436285 Meansq displacement=   0.007551
+  8350 E= -5.9228632 PE=  -6.354464 KE=   0.431601 Meansq displacement=   0.007610
+  8400 E= -5.9228631 PE=  -6.349935 KE=   0.427072 Meansq displacement=   0.007674
+  8450 E= -5.9228632 PE=  -6.346147 KE=   0.423284 Meansq displacement=   0.007739
+  8500 E= -5.9228632 PE=  -6.343293 KE=   0.420429 Meansq displacement=   0.007799
+  8550 E= -5.9228632 PE=  -6.341262 KE=   0.418399 Meansq displacement=   0.007853
+  8600 E= -5.9228631 PE=  -6.339970 KE=   0.417107 Meansq displacement=   0.007896
+  8650 E= -5.9228631 PE=  -6.339621 KE=   0.416758 Meansq displacement=   0.007927
+  8700 E= -5.9228632 PE=  -6.340711 KE=   0.417848 Meansq displacement=   0.007946
+  8750 E= -5.9228631 PE=  -6.343661 KE=   0.420798 Meansq displacement=   0.007953
+  8800 E= -5.9228632 PE=  -6.348209 KE=   0.425346 Meansq displacement=   0.007950
+  8850 E= -5.9228632 PE=  -6.353154 KE=   0.430291 Meansq displacement=   0.007941
+  8900 E= -5.9228632 PE=  -6.356918 KE=   0.434055 Meansq displacement=   0.007930
+  8950 E= -5.9228632 PE=  -6.358526 KE=   0.435663 Meansq displacement=   0.007922
+  9000 E= -5.9228632 PE=  -6.358058 KE=   0.435194 Meansq displacement=   0.007919
+  9050 E= -5.9228632 PE=  -6.356191 KE=   0.433328 Meansq displacement=   0.007919
+  9100 E= -5.9228632 PE=  -6.353577 KE=   0.430714 Meansq displacement=   0.007925
+  9150 E= -5.9228631 PE=  -6.350793 KE=   0.427930 Meansq displacement=   0.007934
+  9200 E= -5.9228631 PE=  -6.348530 KE=   0.425667 Meansq displacement=   0.007945
+  9250 E= -5.9228631 PE=  -6.347439 KE=   0.424576 Meansq displacement=   0.007959
+  9300 E= -5.9228631 PE=  -6.347827 KE=   0.424964 Meansq displacement=   0.007975
+  9350 E= -5.9228632 PE=  -6.349601 KE=   0.426738 Meansq displacement=   0.007993
+  9400 E= -5.9228631 PE=  -6.352303 KE=   0.429440 Meansq displacement=   0.008015
+  9450 E= -5.9228632 PE=  -6.355042 KE=   0.432179 Meansq displacement=   0.008043
+  9500 E= -5.9228632 PE=  -6.356662 KE=   0.433799 Meansq displacement=   0.008079
+  9550 E= -5.9228632 PE=  -6.356367 KE=   0.433504 Meansq displacement=   0.008122
+  9600 E= -5.9228632 PE=  -6.354218 KE=   0.431355 Meansq displacement=   0.008172
+  9650 E= -5.9228632 PE=  -6.351015 KE=   0.428152 Meansq displacement=   0.008225
+  9700 E= -5.9228632 PE=  -6.347828 KE=   0.424965 Meansq displacement=   0.008277
+  9750 E= -5.9228631 PE=  -6.345702 KE=   0.422839 Meansq displacement=   0.008324
+  9800 E= -5.9228631 PE=  -6.345469 KE=   0.422606 Meansq displacement=   0.008362
+  9850 E= -5.9228631 PE=  -6.347382 KE=   0.424518 Meansq displacement=   0.008391
+  9900 E= -5.9228632 PE=  -6.350874 KE=   0.428011 Meansq displacement=   0.008413
+  9950 E= -5.9228632 PE=  -6.354815 KE=   0.431952 Meansq displacement=   0.008429
+ 10000 E= -5.9228632 PE=  -6.357981 KE=   0.435118 Meansq displacement=   0.008445
+ 10050 E= -5.9228632 PE=  -6.359458 KE=   0.436594 Meansq displacement=   0.008464
+ 10100 E= -5.9228632 PE=  -6.358908 KE=   0.436044 Meansq displacement=   0.008488
+ 10150 E= -5.9228632 PE=  -6.356612 KE=   0.433749 Meansq displacement=   0.008518
+ 10200 E= -5.9228632 PE=  -6.353245 KE=   0.430382 Meansq displacement=   0.008554
+ 10250 E= -5.9228631 PE=  -6.349511 KE=   0.426648 Meansq displacement=   0.008593
+ 10300 E= -5.9228631 PE=  -6.345949 KE=   0.423085 Meansq displacement=   0.008633
+ 10350 E= -5.9228631 PE=  -6.343033 KE=   0.420170 Meansq displacement=   0.008669
+ 10400 E= -5.9228631 PE=  -6.341271 KE=   0.418408 Meansq displacement=   0.008698
+ 10450 E= -5.9228631 PE=  -6.341032 KE=   0.418169 Meansq displacement=   0.008718
+ 10500 E= -5.9228631 PE=  -6.342214 KE=   0.419351 Meansq displacement=   0.008728
+ 10550 E= -5.9228632 PE=  -6.344064 KE=   0.421201 Meansq displacement=   0.008729
+ 10600 E= -5.9228632 PE=  -6.345439 KE=   0.422576 Meansq displacement=   0.008722
+ 10650 E= -5.9228632 PE=  -6.345465 KE=   0.422602 Meansq displacement=   0.008708
+ 10700 E= -5.9228632 PE=  -6.344090 KE=   0.421227 Meansq displacement=   0.008689
+ 10750 E= -5.9228631 PE=  -6.342007 KE=   0.419144 Meansq displacement=   0.008662
+ 10800 E= -5.9228631 PE=  -6.340154 KE=   0.417291 Meansq displacement=   0.008628
+ 10850 E= -5.9228631 PE=  -6.339405 KE=   0.416542 Meansq displacement=   0.008585
+ 10900 E= -5.9228631 PE=  -6.340450 KE=   0.417587 Meansq displacement=   0.008533
+ 10950 E= -5.9228631 PE=  -6.343575 KE=   0.420712 Meansq displacement=   0.008473
+ 11000 E= -5.9228631 PE=  -6.348525 KE=   0.425662 Meansq displacement=   0.008408
+ 11050 E= -5.9228632 PE=  -6.354544 KE=   0.431681 Meansq displacement=   0.008343
+ 11100 E= -5.9228632 PE=  -6.360565 KE=   0.437702 Meansq displacement=   0.008283
+ 11150 E= -5.9228632 PE=  -6.365570 KE=   0.442707 Meansq displacement=   0.008234
+ 11200 E= -5.9228632 PE=  -6.368890 KE=   0.446026 Meansq displacement=   0.008199
+ 11250 E= -5.9228632 PE=  -6.370227 KE=   0.447363 Meansq displacement=   0.008182
+ 11300 E= -5.9228632 PE=  -6.369600 KE=   0.446737 Meansq displacement=   0.008184
+ 11350 E= -5.9228632 PE=  -6.367199 KE=   0.444336 Meansq displacement=   0.008206
+ 11400 E= -5.9228632 PE=  -6.363153 KE=   0.440290 Meansq displacement=   0.008244
+ 11450 E= -5.9228632 PE=  -6.357594 KE=   0.434731 Meansq displacement=   0.008297
+ 11500 E= -5.9228631 PE=  -6.351066 KE=   0.428203 Meansq displacement=   0.008359
+ 11550 E= -5.9228631 PE=  -6.344711 KE=   0.421847 Meansq displacement=   0.008426
+ 11600 E= -5.9228631 PE=  -6.339860 KE=   0.416997 Meansq displacement=   0.008493
+ 11650 E= -5.9228631 PE=  -6.337401 KE=   0.414538 Meansq displacement=   0.008555
+ 11700 E= -5.9228631 PE=  -6.337420 KE=   0.414557 Meansq displacement=   0.008610
+ 11750 E= -5.9228632 PE=  -6.339260 KE=   0.416396 Meansq displacement=   0.008660
+ 11800 E= -5.9228632 PE=  -6.341917 KE=   0.419054 Meansq displacement=   0.008704
+ 11850 E= -5.9228632 PE=  -6.344484 KE=   0.421621 Meansq displacement=   0.008744
+ 11900 E= -5.9228633 PE=  -6.346288 KE=   0.423425 Meansq displacement=   0.008782
+ 11950 E= -5.9228632 PE=  -6.346890 KE=   0.424027 Meansq displacement=   0.008816
+ 12000 E= -5.9228632 PE=  -6.346336 KE=   0.423472 Meansq displacement=   0.008846
+ 12050 E= -5.9228631 PE=  -6.345400 KE=   0.422537 Meansq displacement=   0.008869
+ 12100 E= -5.9228631 PE=  -6.345256 KE=   0.422393 Meansq displacement=   0.008882
+ 12150 E= -5.9228631 PE=  -6.346714 KE=   0.423851 Meansq displacement=   0.008885
+ 12200 E= -5.9228631 PE=  -6.349726 KE=   0.426863 Meansq displacement=   0.008877
+ 12250 E= -5.9228632 PE=  -6.353473 KE=   0.430610 Meansq displacement=   0.008861
+ 12300 E= -5.9228632 PE=  -6.356785 KE=   0.433922 Meansq displacement=   0.008841
+ 12350 E= -5.9228632 PE=  -6.358586 KE=   0.435723 Meansq displacement=   0.008820
+ 12400 E= -5.9228633 PE=  -6.358245 KE=   0.435382 Meansq displacement=   0.008801
+ 12450 E= -5.9228632 PE=  -6.355857 KE=   0.432994 Meansq displacement=   0.008784
+ 12500 E= -5.9228632 PE=  -6.352413 KE=   0.429550 Meansq displacement=   0.008769
+ 12550 E= -5.9228631 PE=  -6.349588 KE=   0.426724 Meansq displacement=   0.008752
+ 12600 E= -5.9228631 PE=  -6.348959 KE=   0.426096 Meansq displacement=   0.008734
+ 12650 E= -5.9228632 PE=  -6.351014 KE=   0.428151 Meansq displacement=   0.008713
+ 12700 E= -5.9228632 PE=  -6.354758 KE=   0.431894 Meansq displacement=   0.008692
+ 12750 E= -5.9228632 PE=  -6.358358 KE=   0.435494 Meansq displacement=   0.008677
+ 12800 E= -5.9228633 PE=  -6.360216 KE=   0.437352 Meansq displacement=   0.008670
+ 12850 E= -5.9228632 PE=  -6.359713 KE=   0.436850 Meansq displacement=   0.008675
+ 12900 E= -5.9228632 PE=  -6.357362 KE=   0.434499 Meansq displacement=   0.008691
+ 12950 E= -5.9228631 PE=  -6.354381 KE=   0.431518 Meansq displacement=   0.008717
+ 13000 E= -5.9228631 PE=  -6.352025 KE=   0.429162 Meansq displacement=   0.008749
+ 13050 E= -5.9228631 PE=  -6.351082 KE=   0.428219 Meansq displacement=   0.008785
+ 13100 E= -5.9228632 PE=  -6.351667 KE=   0.428804 Meansq displacement=   0.008823
+ 13150 E= -5.9228631 PE=  -6.353314 KE=   0.430450 Meansq displacement=   0.008860
+ 13200 E= -5.9228632 PE=  -6.355162 KE=   0.432299 Meansq displacement=   0.008897
+ 13250 E= -5.9228632 PE=  -6.356222 KE=   0.433359 Meansq displacement=   0.008932
+ 13300 E= -5.9228632 PE=  -6.355840 KE=   0.432977 Meansq displacement=   0.008966
+ 13350 E= -5.9228632 PE=  -6.354042 KE=   0.431179 Meansq displacement=   0.008997
+ 13400 E= -5.9228632 PE=  -6.351333 KE=   0.428470 Meansq displacement=   0.009024
+ 13450 E= -5.9228631 PE=  -6.348226 KE=   0.425363 Meansq displacement=   0.009043
+ 13500 E= -5.9228631 PE=  -6.345003 KE=   0.422140 Meansq displacement=   0.009053
+ 13550 E= -5.9228631 PE=  -6.341789 KE=   0.418926 Meansq displacement=   0.009053
+ 13600 E= -5.9228631 PE=  -6.338709 KE=   0.415846 Meansq displacement=   0.009038
+ 13650 E= -5.9228632 PE=  -6.336074 KE=   0.413211 Meansq displacement=   0.009009
+ 13700 E= -5.9228631 PE=  -6.334466 KE=   0.411602 Meansq displacement=   0.008962
+ 13750 E= -5.9228631 PE=  -6.334539 KE=   0.411676 Meansq displacement=   0.008896
+ 13800 E= -5.9228631 PE=  -6.336650 KE=   0.413787 Meansq displacement=   0.008812
+ 13850 E= -5.9228631 PE=  -6.340684 KE=   0.417821 Meansq displacement=   0.008713
+ 13900 E= -5.9228631 PE=  -6.346260 KE=   0.423397 Meansq displacement=   0.008604
+ 13950 E= -5.9228632 PE=  -6.352934 KE=   0.430071 Meansq displacement=   0.008492
+ 14000 E= -5.9228632 PE=  -6.360035 KE=   0.437172 Meansq displacement=   0.008384
+ 14050 E= -5.9228632 PE=  -6.366426 KE=   0.443562 Meansq displacement=   0.008288
+ 14100 E= -5.9228632 PE=  -6.370726 KE=   0.447862 Meansq displacement=   0.008211
+ 14150 E= -5.9228632 PE=  -6.371865 KE=   0.449002 Meansq displacement=   0.008158
+ 14200 E= -5.9228632 PE=  -6.369433 KE=   0.446570 Meansq displacement=   0.008131
+ 14250 E= -5.9228632 PE=  -6.363750 KE=   0.440887 Meansq displacement=   0.008128
+ 14300 E= -5.9228632 PE=  -6.355904 KE=   0.433041 Meansq displacement=   0.008145
+ 14350 E= -5.9228631 PE=  -6.347616 KE=   0.424753 Meansq displacement=   0.008172
+ 14400 E= -5.9228631 PE=  -6.340629 KE=   0.417766 Meansq displacement=   0.008204
+ 14450 E= -5.9228631 PE=  -6.336007 KE=   0.413144 Meansq displacement=   0.008234
+ 14500 E= -5.9228631 PE=  -6.334007 KE=   0.411144 Meansq displacement=   0.008256
+ 14550 E= -5.9228632 PE=  -6.334342 KE=   0.411479 Meansq displacement=   0.008267
+ 14600 E= -5.9228632 PE=  -6.336317 KE=   0.413454 Meansq displacement=   0.008267
+ 14650 E= -5.9228632 PE=  -6.338932 KE=   0.416068 Meansq displacement=   0.008256
+ 14700 E= -5.9228632 PE=  -6.341195 KE=   0.418332 Meansq displacement=   0.008234
+ 14750 E= -5.9228632 PE=  -6.342526 KE=   0.419662 Meansq displacement=   0.008202
+ 14800 E= -5.9228632 PE=  -6.342873 KE=   0.420010 Meansq displacement=   0.008160
+ 14850 E= -5.9228631 PE=  -6.342549 KE=   0.419686 Meansq displacement=   0.008109
+ 14900 E= -5.9228632 PE=  -6.342066 KE=   0.419203 Meansq displacement=   0.008049
+ 14950 E= -5.9228631 PE=  -6.342149 KE=   0.419286 Meansq displacement=   0.007981
+ 15000 E= -5.9228631 PE=  -6.343688 KE=   0.420825 Meansq displacement=   0.007905
+ 15050 E= -5.9228631 PE=  -6.347369 KE=   0.424506 Meansq displacement=   0.007825
+ 15100 E= -5.9228632 PE=  -6.353109 KE=   0.430246 Meansq displacement=   0.007745
+ 15150 E= -5.9228632 PE=  -6.359911 KE=   0.437048 Meansq displacement=   0.007670
+ 15200 E= -5.9228632 PE=  -6.366387 KE=   0.443524 Meansq displacement=   0.007607
+ 15250 E= -5.9228632 PE=  -6.371363 KE=   0.448500 Meansq displacement=   0.007562
+ 15300 E= -5.9228632 PE=  -6.374081 KE=   0.451218 Meansq displacement=   0.007539
+ 15350 E= -5.9228632 PE=  -6.374143 KE=   0.451280 Meansq displacement=   0.007539
+ 15400 E= -5.9228632 PE=  -6.371559 KE=   0.448696 Meansq displacement=   0.007563
+ 15450 E= -5.9228632 PE=  -6.366920 KE=   0.444057 Meansq displacement=   0.007606
+ 15500 E= -5.9228631 PE=  -6.361373 KE=   0.438510 Meansq displacement=   0.007664
+ 15550 E= -5.9228631 PE=  -6.356193 KE=   0.433330 Meansq displacement=   0.007732
+ 15600 E= -5.9228631 PE=  -6.352125 KE=   0.429262 Meansq displacement=   0.007807
+ 15650 E= -5.9228632 PE=  -6.349042 KE=   0.426179 Meansq displacement=   0.007885
+ 15700 E= -5.9228632 PE=  -6.346238 KE=   0.423375 Meansq displacement=   0.007965
+ 15750 E= -5.9228632 PE=  -6.343095 KE=   0.420232 Meansq displacement=   0.008045
+ 15800 E= -5.9228632 PE=  -6.339616 KE=   0.416752 Meansq displacement=   0.008123
+ 15850 E= -5.9228631 PE=  -6.336522 KE=   0.413659 Meansq displacement=   0.008196
+ 15900 E= -5.9228632 PE=  -6.334766 KE=   0.411903 Meansq displacement=   0.008261
+ 15950 E= -5.9228632 PE=  -6.334751 KE=   0.411888 Meansq displacement=   0.008315
+ 16000 E= -5.9228631 PE=  -6.336001 KE=   0.413138 Meansq displacement=   0.008358
+ 16050 E= -5.9228632 PE=  -6.337633 KE=   0.414770 Meansq displacement=   0.008391
+ 16100 E= -5.9228632 PE=  -6.339068 KE=   0.416204 Meansq displacement=   0.008413
+ 16150 E= -5.9228632 PE=  -6.340314 KE=   0.417451 Meansq displacement=   0.008427
+ 16200 E= -5.9228631 PE=  -6.341734 KE=   0.418871 Meansq displacement=   0.008432
+ 16250 E= -5.9228631 PE=  -6.343744 KE=   0.420880 Meansq displacement=   0.008430
+ 16300 E= -5.9228631 PE=  -6.346672 KE=   0.423809 Meansq displacement=   0.008420
+ 16350 E= -5.9228631 PE=  -6.350552 KE=   0.427689 Meansq displacement=   0.008406
+ 16400 E= -5.9228632 PE=  -6.354896 KE=   0.432033 Meansq displacement=   0.008390
+ 16450 E= -5.9228632 PE=  -6.358829 KE=   0.435966 Meansq displacement=   0.008375
+ 16500 E= -5.9228632 PE=  -6.361507 KE=   0.438644 Meansq displacement=   0.008365
+ 16550 E= -5.9228632 PE=  -6.362451 KE=   0.439587 Meansq displacement=   0.008362
+ 16600 E= -5.9228632 PE=  -6.361686 KE=   0.438823 Meansq displacement=   0.008368
+ 16650 E= -5.9228632 PE=  -6.359716 KE=   0.436853 Meansq displacement=   0.008379
+ 16700 E= -5.9228631 PE=  -6.357313 KE=   0.434450 Meansq displacement=   0.008396
+ 16750 E= -5.9228631 PE=  -6.355173 KE=   0.432310 Meansq displacement=   0.008416
+ 16800 E= -5.9228632 PE=  -6.353665 KE=   0.430802 Meansq displacement=   0.008436
+ 16850 E= -5.9228632 PE=  -6.352807 KE=   0.429944 Meansq displacement=   0.008456
+ 16900 E= -5.9228632 PE=  -6.352444 KE=   0.429580 Meansq displacement=   0.008475
+ 16950 E= -5.9228632 PE=  -6.352533 KE=   0.429669 Meansq displacement=   0.008492
+ 17000 E= -5.9228632 PE=  -6.353232 KE=   0.430369 Meansq displacement=   0.008509
+ 17050 E= -5.9228632 PE=  -6.354521 KE=   0.431658 Meansq displacement=   0.008526
+ 17100 E= -5.9228632 PE=  -6.355826 KE=   0.432963 Meansq displacement=   0.008544
+ 17150 E= -5.9228632 PE=  -6.356213 KE=   0.433350 Meansq displacement=   0.008566
+ 17200 E= -5.9228632 PE=  -6.354863 KE=   0.432000 Meansq displacement=   0.008592
+ 17250 E= -5.9228632 PE=  -6.351424 KE=   0.428561 Meansq displacement=   0.008622
+ 17300 E= -5.9228632 PE=  -6.346346 KE=   0.423483 Meansq displacement=   0.008653
+ 17350 E= -5.9228632 PE=  -6.341121 KE=   0.418257 Meansq displacement=   0.008682
+ 17400 E= -5.9228631 PE=  -6.337914 KE=   0.415051 Meansq displacement=   0.008702
+ 17450 E= -5.9228630 PE=  -6.338455 KE=   0.415592 Meansq displacement=   0.008710
+ 17500 E= -5.9228631 PE=  -6.342996 KE=   0.420133 Meansq displacement=   0.008706
+ 17550 E= -5.9228632 PE=  -6.350240 KE=   0.427377 Meansq displacement=   0.008695
+ 17600 E= -5.9228632 PE=  -6.357889 KE=   0.435025 Meansq displacement=   0.008683
+ 17650 E= -5.9228633 PE=  -6.363283 KE=   0.440420 Meansq displacement=   0.008676
+ 17700 E= -5.9228633 PE=  -6.364362 KE=   0.441498 Meansq displacement=   0.008680
+ 17750 E= -5.9228633 PE=  -6.360749 KE=   0.437886 Meansq displacement=   0.008696
+ 17800 E= -5.9228632 PE=  -6.354041 KE=   0.431178 Meansq displacement=   0.008720
+ 17850 E= -5.9228631 PE=  -6.346903 KE=   0.424040 Meansq displacement=   0.008747
+ 17900 E= -5.9228631 PE=  -6.341712 KE=   0.418849 Meansq displacement=   0.008770
+ 17950 E= -5.9228631 PE=  -6.339671 KE=   0.416808 Meansq displacement=   0.008786
+ 18000 E= -5.9228631 PE=  -6.340755 KE=   0.417892 Meansq displacement=   0.008792
+ 18050 E= -5.9228632 PE=  -6.344169 KE=   0.421306 Meansq displacement=   0.008790
+ 18100 E= -5.9228632 PE=  -6.348815 KE=   0.425952 Meansq displacement=   0.008784
+ 18150 E= -5.9228632 PE=  -6.353623 KE=   0.430759 Meansq displacement=   0.008778
+ 18200 E= -5.9228632 PE=  -6.357720 KE=   0.434857 Meansq displacement=   0.008775
+ 18250 E= -5.9228632 PE=  -6.360419 KE=   0.437555 Meansq displacement=   0.008780
+ 18300 E= -5.9228632 PE=  -6.361192 KE=   0.438329 Meansq displacement=   0.008793
+ 18350 E= -5.9228632 PE=  -6.359906 KE=   0.437043 Meansq displacement=   0.008814
+ 18400 E= -5.9228632 PE=  -6.357083 KE=   0.434220 Meansq displacement=   0.008842
+ 18450 E= -5.9228631 PE=  -6.353753 KE=   0.430889 Meansq displacement=   0.008872
+ 18500 E= -5.9228632 PE=  -6.350888 KE=   0.428025 Meansq displacement=   0.008901
+ 18550 E= -5.9228632 PE=  -6.348902 KE=   0.426039 Meansq displacement=   0.008926
+ 18600 E= -5.9228632 PE=  -6.347565 KE=   0.424702 Meansq displacement=   0.008944
+ 18650 E= -5.9228632 PE=  -6.346274 KE=   0.423411 Meansq displacement=   0.008954
+ 18700 E= -5.9228632 PE=  -6.344453 KE=   0.421590 Meansq displacement=   0.008955
+ 18750 E= -5.9228632 PE=  -6.341936 KE=   0.419073 Meansq displacement=   0.008947
+ 18800 E= -5.9228632 PE=  -6.339165 KE=   0.416302 Meansq displacement=   0.008929
+ 18850 E= -5.9228631 PE=  -6.337129 KE=   0.414266 Meansq displacement=   0.008898
+ 18900 E= -5.9228631 PE=  -6.336958 KE=   0.414095 Meansq displacement=   0.008856
+ 18950 E= -5.9228631 PE=  -6.339202 KE=   0.416338 Meansq displacement=   0.008802
+ 19000 E= -5.9228632 PE=  -6.343324 KE=   0.420460 Meansq displacement=   0.008740
+ 19050 E= -5.9228632 PE=  -6.347921 KE=   0.425058 Meansq displacement=   0.008675
+ 19100 E= -5.9228632 PE=  -6.351517 KE=   0.428654 Meansq displacement=   0.008610
+ 19150 E= -5.9228632 PE=  -6.353297 KE=   0.430434 Meansq displacement=   0.008549
+ 19200 E= -5.9228631 PE=  -6.353473 KE=   0.430610 Meansq displacement=   0.008492
+ 19250 E= -5.9228631 PE=  -6.353137 KE=   0.430273 Meansq displacement=   0.008440
+ 19300 E= -5.9228631 PE=  -6.353567 KE=   0.430704 Meansq displacement=   0.008392
+ 19350 E= -5.9228631 PE=  -6.355371 KE=   0.432507 Meansq displacement=   0.008347
+ 19400 E= -5.9228631 PE=  -6.358149 KE=   0.435286 Meansq displacement=   0.008308
+ 19450 E= -5.9228632 PE=  -6.360956 KE=   0.438093 Meansq displacement=   0.008276
+ 19500 E= -5.9228631 PE=  -6.363041 KE=   0.440178 Meansq displacement=   0.008254
+ 19550 E= -5.9228632 PE=  -6.364166 KE=   0.441302 Meansq displacement=   0.008242
+ 19600 E= -5.9228632 PE=  -6.364308 KE=   0.441445 Meansq displacement=   0.008241
+ 19650 E= -5.9228632 PE=  -6.363262 KE=   0.440399 Meansq displacement=   0.008250
+ 19700 E= -5.9228632 PE=  -6.360692 KE=   0.437828 Meansq displacement=   0.008268
+ 19750 E= -5.9228632 PE=  -6.356617 KE=   0.433754 Meansq displacement=   0.008291
+ 19800 E= -5.9228631 PE=  -6.351717 KE=   0.428853 Meansq displacement=   0.008315
+ 19850 E= -5.9228631 PE=  -6.347024 KE=   0.424161 Meansq displacement=   0.008337
+ 19900 E= -5.9228631 PE=  -6.343306 KE=   0.420443 Meansq displacement=   0.008353
+ 19950 E= -5.9228632 PE=  -6.340766 KE=   0.417903 Meansq displacement=   0.008359
+ 20000 E= -5.9228632 PE=  -6.339301 KE=   0.416438 Meansq displacement=   0.008354
+ T =   0.28526165311539492       Cv =    4.8320830949620595     
+ Pressure =    2.6211604821094503     
+ # of atoms is         864  Density is    1.0597273759711887     
+ Temperature scaled to  0.29999999999999999     
+    50 E= -5.8893013 PE=  -6.337640 KE=   0.448339
+   100 E= -5.8893013 PE=  -6.335093 KE=   0.445792
+   150 E= -5.8893013 PE=  -6.332469 KE=   0.443168
+   200 E= -5.8893013 PE=  -6.330179 KE=   0.440878
+   250 E= -5.8893013 PE=  -6.328178 KE=   0.438877
+   300 E= -5.8893013 PE=  -6.326485 KE=   0.437184
+   350 E= -5.8893012 PE=  -6.325603 KE=   0.436302
+   400 E= -5.8893012 PE=  -6.326354 KE=   0.437052
+   450 E= -5.8893013 PE=  -6.329246 KE=   0.439945
+   500 E= -5.8893013 PE=  -6.333988 KE=   0.444687
+grcutoff :    4.67100
+   550 E= -5.8893013 PE=  -6.339606 KE=   0.450305 Meansq displacement=   0.000089
+   600 E= -5.8893013 PE=  -6.344965 KE=   0.455664 Meansq displacement=   0.000356
+   650 E= -5.8893014 PE=  -6.349154 KE=   0.459852 Meansq displacement=   0.000793
+   700 E= -5.8893014 PE=  -6.351555 KE=   0.462253 Meansq displacement=   0.001387
+   750 E= -5.8893014 PE=  -6.351817 KE=   0.462516 Meansq displacement=   0.002118
+   800 E= -5.8893013 PE=  -6.349853 KE=   0.460552 Meansq displacement=   0.002961
+   850 E= -5.8893013 PE=  -6.345788 KE=   0.456486 Meansq displacement=   0.003887
+   900 E= -5.8893013 PE=  -6.339923 KE=   0.450622 Meansq displacement=   0.004862
+   950 E= -5.8893013 PE=  -6.332828 KE=   0.443526 Meansq displacement=   0.005852
+  1000 E= -5.8893013 PE=  -6.325470 KE=   0.436169 Meansq displacement=   0.006824
+  1050 E= -5.8893013 PE=  -6.319128 KE=   0.429827 Meansq displacement=   0.007743
+  1100 E= -5.8893013 PE=  -6.314979 KE=   0.425678 Meansq displacement=   0.008583
+  1150 E= -5.8893013 PE=  -6.313635 KE=   0.424333 Meansq displacement=   0.009321
+  1200 E= -5.8893013 PE=  -6.314870 KE=   0.425569 Meansq displacement=   0.009944
+  1250 E= -5.8893013 PE=  -6.317757 KE=   0.428456 Meansq displacement=   0.010446
+  1300 E= -5.8893013 PE=  -6.321263 KE=   0.431962 Meansq displacement=   0.010826
+  1350 E= -5.8893013 PE=  -6.324806 KE=   0.435504 Meansq displacement=   0.011090
+  1400 E= -5.8893013 PE=  -6.328389 KE=   0.439087 Meansq displacement=   0.011246
+  1450 E= -5.8893013 PE=  -6.332371 KE=   0.443070 Meansq displacement=   0.011305
+  1500 E= -5.8893013 PE=  -6.336969 KE=   0.447667 Meansq displacement=   0.011281
+  1550 E= -5.8893013 PE=  -6.341850 KE=   0.452549 Meansq displacement=   0.011189
+  1600 E= -5.8893013 PE=  -6.346260 KE=   0.456959 Meansq displacement=   0.011048
+  1650 E= -5.8893013 PE=  -6.349429 KE=   0.460128 Meansq displacement=   0.010874
+  1700 E= -5.8893013 PE=  -6.350829 KE=   0.461528 Meansq displacement=   0.010681
+  1750 E= -5.8893013 PE=  -6.350254 KE=   0.460953 Meansq displacement=   0.010482
+  1800 E= -5.8893014 PE=  -6.347787 KE=   0.458485 Meansq displacement=   0.010289
+  1850 E= -5.8893013 PE=  -6.343710 KE=   0.454409 Meansq displacement=   0.010107
+  1900 E= -5.8893013 PE=  -6.338522 KE=   0.449220 Meansq displacement=   0.009942
+  1950 E= -5.8893013 PE=  -6.332974 KE=   0.443673 Meansq displacement=   0.009796
+  2000 E= -5.8893013 PE=  -6.327944 KE=   0.438643 Meansq displacement=   0.009669
+  2050 E= -5.8893013 PE=  -6.324103 KE=   0.434802 Meansq displacement=   0.009558
+  2100 E= -5.8893013 PE=  -6.321693 KE=   0.432392 Meansq displacement=   0.009462
+  2150 E= -5.8893013 PE=  -6.320687 KE=   0.431385 Meansq displacement=   0.009375
+  2200 E= -5.8893013 PE=  -6.321045 KE=   0.431744 Meansq displacement=   0.009296
+  2250 E= -5.8893013 PE=  -6.322663 KE=   0.433362 Meansq displacement=   0.009221
+  2300 E= -5.8893014 PE=  -6.325166 KE=   0.435864 Meansq displacement=   0.009147
+  2350 E= -5.8893013 PE=  -6.327931 KE=   0.438630 Meansq displacement=   0.009074
+  2400 E= -5.8893013 PE=  -6.330370 KE=   0.441069 Meansq displacement=   0.009001
+  2450 E= -5.8893013 PE=  -6.332219 KE=   0.442918 Meansq displacement=   0.008929
+  2500 E= -5.8893014 PE=  -6.333667 KE=   0.444366 Meansq displacement=   0.008859
+  2550 E= -5.8893012 PE=  -6.335219 KE=   0.445918 Meansq displacement=   0.008790
+  2600 E= -5.8893013 PE=  -6.337429 KE=   0.448128 Meansq displacement=   0.008724
+  2650 E= -5.8893013 PE=  -6.340625 KE=   0.451323 Meansq displacement=   0.008665
+  2700 E= -5.8893014 PE=  -6.344619 KE=   0.455318 Meansq displacement=   0.008614
+  2750 E= -5.8893014 PE=  -6.348566 KE=   0.459264 Meansq displacement=   0.008578
+  2800 E= -5.8893014 PE=  -6.351320 KE=   0.462019 Meansq displacement=   0.008561
+  2850 E= -5.8893014 PE=  -6.352122 KE=   0.462821 Meansq displacement=   0.008567
+  2900 E= -5.8893014 PE=  -6.351005 KE=   0.461703 Meansq displacement=   0.008600
+  2950 E= -5.8893013 PE=  -6.348623 KE=   0.459322 Meansq displacement=   0.008657
+  3000 E= -5.8893013 PE=  -6.345696 KE=   0.456395 Meansq displacement=   0.008739
+  3050 E= -5.8893013 PE=  -6.342529 KE=   0.453227 Meansq displacement=   0.008842
+  3100 E= -5.8893013 PE=  -6.338973 KE=   0.449672 Meansq displacement=   0.008961
+  3150 E= -5.8893013 PE=  -6.334838 KE=   0.445537 Meansq displacement=   0.009092
+  3200 E= -5.8893013 PE=  -6.330322 KE=   0.441021 Meansq displacement=   0.009228
+  3250 E= -5.8893013 PE=  -6.326028 KE=   0.436727 Meansq displacement=   0.009363
+  3300 E= -5.8893013 PE=  -6.322616 KE=   0.433315 Meansq displacement=   0.009488
+  3350 E= -5.8893013 PE=  -6.320533 KE=   0.431232 Meansq displacement=   0.009597
+  3400 E= -5.8893013 PE=  -6.319932 KE=   0.430631 Meansq displacement=   0.009685
+  3450 E= -5.8893013 PE=  -6.320548 KE=   0.431247 Meansq displacement=   0.009746
+  3500 E= -5.8893013 PE=  -6.321801 KE=   0.432500 Meansq displacement=   0.009779
+  3550 E= -5.8893013 PE=  -6.323383 KE=   0.434081 Meansq displacement=   0.009782
+  3600 E= -5.8893012 PE=  -6.325573 KE=   0.436272 Meansq displacement=   0.009755
+  3650 E= -5.8893013 PE=  -6.328768 KE=   0.439467 Meansq displacement=   0.009699
+  3700 E= -5.8893013 PE=  -6.332786 KE=   0.443484 Meansq displacement=   0.009618
+  3750 E= -5.8893013 PE=  -6.336759 KE=   0.447458 Meansq displacement=   0.009516
+  3800 E= -5.8893014 PE=  -6.339682 KE=   0.450381 Meansq displacement=   0.009400
+  3850 E= -5.8893013 PE=  -6.341089 KE=   0.451788 Meansq displacement=   0.009277
+  3900 E= -5.8893014 PE=  -6.341338 KE=   0.452036 Meansq displacement=   0.009152
+  3950 E= -5.8893013 PE=  -6.341285 KE=   0.451984 Meansq displacement=   0.009029
+  4000 E= -5.8893013 PE=  -6.341651 KE=   0.452349 Meansq displacement=   0.008913
+  4050 E= -5.8893013 PE=  -6.342514 KE=   0.453213 Meansq displacement=   0.008809
+  4100 E= -5.8893013 PE=  -6.343300 KE=   0.453998 Meansq displacement=   0.008719
+  4150 E= -5.8893014 PE=  -6.343350 KE=   0.454049 Meansq displacement=   0.008648
+  4200 E= -5.8893014 PE=  -6.342505 KE=   0.453204 Meansq displacement=   0.008598
+  4250 E= -5.8893013 PE=  -6.340954 KE=   0.451653 Meansq displacement=   0.008569
+  4300 E= -5.8893013 PE=  -6.338666 KE=   0.449365 Meansq displacement=   0.008559
+  4350 E= -5.8893013 PE=  -6.335325 KE=   0.446023 Meansq displacement=   0.008567
+  4400 E= -5.8893013 PE=  -6.330915 KE=   0.441614 Meansq displacement=   0.008590
+  4450 E= -5.8893013 PE=  -6.326142 KE=   0.436841 Meansq displacement=   0.008623
+  4500 E= -5.8893013 PE=  -6.322153 KE=   0.432852 Meansq displacement=   0.008660
+  4550 E= -5.8893013 PE=  -6.320116 KE=   0.430815 Meansq displacement=   0.008696
+  4600 E= -5.8893013 PE=  -6.321030 KE=   0.431729 Meansq displacement=   0.008727
+  4650 E= -5.8893013 PE=  -6.325381 KE=   0.436080 Meansq displacement=   0.008749
+  4700 E= -5.8893013 PE=  -6.332672 KE=   0.443370 Meansq displacement=   0.008764
+  4750 E= -5.8893013 PE=  -6.341329 KE=   0.452028 Meansq displacement=   0.008774
+  4800 E= -5.8893014 PE=  -6.349226 KE=   0.459924 Meansq displacement=   0.008785
+  4850 E= -5.8893015 PE=  -6.354496 KE=   0.465195 Meansq displacement=   0.008800
+  4900 E= -5.8893014 PE=  -6.356074 KE=   0.466772 Meansq displacement=   0.008823
+  4950 E= -5.8893014 PE=  -6.353708 KE=   0.464406 Meansq displacement=   0.008855
+  5000 E= -5.8893014 PE=  -6.347918 KE=   0.458616 Meansq displacement=   0.008894
+  5050 E= -5.8893013 PE=  -6.340036 KE=   0.450735 Meansq displacement=   0.008933
+  5100 E= -5.8893013 PE=  -6.331933 KE=   0.442632 Meansq displacement=   0.008968
+  5150 E= -5.8893012 PE=  -6.325364 KE=   0.436063 Meansq displacement=   0.008991
+  5200 E= -5.8893012 PE=  -6.321431 KE=   0.432130 Meansq displacement=   0.008998
+  5250 E= -5.8893012 PE=  -6.320414 KE=   0.431113 Meansq displacement=   0.008987
+  5300 E= -5.8893013 PE=  -6.321891 KE=   0.432590 Meansq displacement=   0.008957
+  5350 E= -5.8893013 PE=  -6.325052 KE=   0.435751 Meansq displacement=   0.008912
+  5400 E= -5.8893013 PE=  -6.329097 KE=   0.439796 Meansq displacement=   0.008856
+  5450 E= -5.8893013 PE=  -6.333421 KE=   0.444119 Meansq displacement=   0.008794
+  5500 E= -5.8893013 PE=  -6.337376 KE=   0.448074 Meansq displacement=   0.008731
+  5550 E= -5.8893013 PE=  -6.339945 KE=   0.450644 Meansq displacement=   0.008672
+  5600 E= -5.8893014 PE=  -6.340071 KE=   0.450770 Meansq displacement=   0.008622
+  5650 E= -5.8893013 PE=  -6.337545 KE=   0.448243 Meansq displacement=   0.008582
+  5700 E= -5.8893013 PE=  -6.333479 KE=   0.444178 Meansq displacement=   0.008550
+  5750 E= -5.8893012 PE=  -6.329844 KE=   0.440542 Meansq displacement=   0.008523
+  5800 E= -5.8893012 PE=  -6.328364 KE=   0.439062 Meansq displacement=   0.008499
+  5850 E= -5.8893012 PE=  -6.329564 KE=   0.440263 Meansq displacement=   0.008476
+  5900 E= -5.8893013 PE=  -6.332666 KE=   0.443365 Meansq displacement=   0.008455
+  5950 E= -5.8893013 PE=  -6.336222 KE=   0.446920 Meansq displacement=   0.008439
+  6000 E= -5.8893014 PE=  -6.338829 KE=   0.449528 Meansq displacement=   0.008430
+  6050 E= -5.8893013 PE=  -6.339614 KE=   0.450312 Meansq displacement=   0.008430
+  6100 E= -5.8893013 PE=  -6.338535 KE=   0.449234 Meansq displacement=   0.008438
+  6150 E= -5.8893013 PE=  -6.336405 KE=   0.447104 Meansq displacement=   0.008455
+  6200 E= -5.8893013 PE=  -6.334424 KE=   0.445122 Meansq displacement=   0.008476
+  6250 E= -5.8893013 PE=  -6.333452 KE=   0.444151 Meansq displacement=   0.008501
+  6300 E= -5.8893013 PE=  -6.333666 KE=   0.444365 Meansq displacement=   0.008529
+  6350 E= -5.8893013 PE=  -6.334811 KE=   0.445510 Meansq displacement=   0.008560
+  6400 E= -5.8893013 PE=  -6.336568 KE=   0.447267 Meansq displacement=   0.008594
+  6450 E= -5.8893014 PE=  -6.338569 KE=   0.449267 Meansq displacement=   0.008633
+  6500 E= -5.8893013 PE=  -6.340248 KE=   0.450946 Meansq displacement=   0.008678
+  6550 E= -5.8893014 PE=  -6.340947 KE=   0.451645 Meansq displacement=   0.008729
+  6600 E= -5.8893013 PE=  -6.340396 KE=   0.451095 Meansq displacement=   0.008786
+  6650 E= -5.8893013 PE=  -6.339026 KE=   0.449724 Meansq displacement=   0.008847
+  6700 E= -5.8893013 PE=  -6.337507 KE=   0.448206 Meansq displacement=   0.008910
+  6750 E= -5.8893013 PE=  -6.336040 KE=   0.446738 Meansq displacement=   0.008974
+  6800 E= -5.8893013 PE=  -6.334251 KE=   0.444949 Meansq displacement=   0.009036
+  6850 E= -5.8893013 PE=  -6.331720 KE=   0.442418 Meansq displacement=   0.009094
+  6900 E= -5.8893013 PE=  -6.328453 KE=   0.439151 Meansq displacement=   0.009148
+  6950 E= -5.8893013 PE=  -6.324854 KE=   0.435553 Meansq displacement=   0.009192
+  7000 E= -5.8893013 PE=  -6.321389 KE=   0.432088 Meansq displacement=   0.009225
+  7050 E= -5.8893013 PE=  -6.318420 KE=   0.429119 Meansq displacement=   0.009242
+  7100 E= -5.8893012 PE=  -6.316299 KE=   0.426998 Meansq displacement=   0.009240
+  7150 E= -5.8893013 PE=  -6.315464 KE=   0.426163 Meansq displacement=   0.009218
+  7200 E= -5.8893013 PE=  -6.316422 KE=   0.427120 Meansq displacement=   0.009174
+  7250 E= -5.8893012 PE=  -6.319640 KE=   0.430339 Meansq displacement=   0.009110
+  7300 E= -5.8893013 PE=  -6.325185 KE=   0.435883 Meansq displacement=   0.009028
+  7350 E= -5.8893013 PE=  -6.332210 KE=   0.442908 Meansq displacement=   0.008933
+  7400 E= -5.8893014 PE=  -6.339163 KE=   0.449861 Meansq displacement=   0.008832
+  7450 E= -5.8893013 PE=  -6.344674 KE=   0.455373 Meansq displacement=   0.008730
+  7500 E= -5.8893014 PE=  -6.348171 KE=   0.458870 Meansq displacement=   0.008634
+  7550 E= -5.8893014 PE=  -6.349721 KE=   0.460419 Meansq displacement=   0.008546
+  7600 E= -5.8893014 PE=  -6.349443 KE=   0.460142 Meansq displacement=   0.008468
+  7650 E= -5.8893014 PE=  -6.347476 KE=   0.458174 Meansq displacement=   0.008401
+  7700 E= -5.8893014 PE=  -6.344529 KE=   0.455228 Meansq displacement=   0.008344
+  7750 E= -5.8893013 PE=  -6.341862 KE=   0.452561 Meansq displacement=   0.008293
+  7800 E= -5.8893013 PE=  -6.340358 KE=   0.451057 Meansq displacement=   0.008248
+  7850 E= -5.8893013 PE=  -6.339824 KE=   0.450522 Meansq displacement=   0.008207
+  7900 E= -5.8893013 PE=  -6.339356 KE=   0.450055 Meansq displacement=   0.008172
+  7950 E= -5.8893014 PE=  -6.338353 KE=   0.449051 Meansq displacement=   0.008143
+  8000 E= -5.8893013 PE=  -6.337085 KE=   0.447783 Meansq displacement=   0.008119
+  8050 E= -5.8893013 PE=  -6.336348 KE=   0.447047 Meansq displacement=   0.008100
+  8100 E= -5.8893013 PE=  -6.336517 KE=   0.447216 Meansq displacement=   0.008085
+  8150 E= -5.8893014 PE=  -6.336935 KE=   0.447634 Meansq displacement=   0.008074
+  8200 E= -5.8893014 PE=  -6.336458 KE=   0.447156 Meansq displacement=   0.008068
+  8250 E= -5.8893013 PE=  -6.334598 KE=   0.445297 Meansq displacement=   0.008065
+  8300 E= -5.8893013 PE=  -6.331959 KE=   0.442658 Meansq displacement=   0.008065
+  8350 E= -5.8893013 PE=  -6.329647 KE=   0.440346 Meansq displacement=   0.008064
+  8400 E= -5.8893013 PE=  -6.328590 KE=   0.439288 Meansq displacement=   0.008062
+  8450 E= -5.8893012 PE=  -6.329420 KE=   0.440119 Meansq displacement=   0.008056
+  8500 E= -5.8893013 PE=  -6.332444 KE=   0.443143 Meansq displacement=   0.008048
+  8550 E= -5.8893013 PE=  -6.337333 KE=   0.448032 Meansq displacement=   0.008039
+  8600 E= -5.8893014 PE=  -6.342955 KE=   0.453653 Meansq displacement=   0.008033
+  8650 E= -5.8893013 PE=  -6.347605 KE=   0.458303 Meansq displacement=   0.008035
+  8700 E= -5.8893014 PE=  -6.349529 KE=   0.460228 Meansq displacement=   0.008049
+  8750 E= -5.8893014 PE=  -6.347580 KE=   0.458278 Meansq displacement=   0.008077
+  8800 E= -5.8893014 PE=  -6.341758 KE=   0.452456 Meansq displacement=   0.008118
+  8850 E= -5.8893013 PE=  -6.333318 KE=   0.444017 Meansq displacement=   0.008167
+  8900 E= -5.8893013 PE=  -6.324387 KE=   0.435086 Meansq displacement=   0.008219
+  8950 E= -5.8893012 PE=  -6.317301 KE=   0.428000 Meansq displacement=   0.008268
+  9000 E= -5.8893012 PE=  -6.313845 KE=   0.424544 Meansq displacement=   0.008308
+  9050 E= -5.8893012 PE=  -6.314599 KE=   0.425298 Meansq displacement=   0.008336
+  9100 E= -5.8893012 PE=  -6.318807 KE=   0.429506 Meansq displacement=   0.008355
+  9150 E= -5.8893013 PE=  -6.324866 KE=   0.435564 Meansq displacement=   0.008368
+  9200 E= -5.8893013 PE=  -6.330988 KE=   0.441687 Meansq displacement=   0.008380
+  9250 E= -5.8893014 PE=  -6.335698 KE=   0.446397 Meansq displacement=   0.008394
+  9300 E= -5.8893014 PE=  -6.338121 KE=   0.448819 Meansq displacement=   0.008414
+  9350 E= -5.8893014 PE=  -6.338208 KE=   0.448907 Meansq displacement=   0.008439
+  9400 E= -5.8893013 PE=  -6.336729 KE=   0.447428 Meansq displacement=   0.008470
+  9450 E= -5.8893013 PE=  -6.334796 KE=   0.445495 Meansq displacement=   0.008502
+  9500 E= -5.8893013 PE=  -6.333339 KE=   0.444038 Meansq displacement=   0.008535
+  9550 E= -5.8893012 PE=  -6.332984 KE=   0.443683 Meansq displacement=   0.008567
+  9600 E= -5.8893013 PE=  -6.333998 KE=   0.444696 Meansq displacement=   0.008599
+  9650 E= -5.8893013 PE=  -6.335969 KE=   0.446668 Meansq displacement=   0.008632
+  9700 E= -5.8893014 PE=  -6.337790 KE=   0.448488 Meansq displacement=   0.008669
+  9750 E= -5.8893014 PE=  -6.338320 KE=   0.449019 Meansq displacement=   0.008711
+  9800 E= -5.8893014 PE=  -6.337154 KE=   0.447853 Meansq displacement=   0.008758
+  9850 E= -5.8893013 PE=  -6.334767 KE=   0.445466 Meansq displacement=   0.008811
+  9900 E= -5.8893013 PE=  -6.332091 KE=   0.442790 Meansq displacement=   0.008865
+  9950 E= -5.8893013 PE=  -6.330030 KE=   0.440729 Meansq displacement=   0.008919
+ 10000 E= -5.8893013 PE=  -6.329205 KE=   0.439903 Meansq displacement=   0.008971
+ 10050 E= -5.8893013 PE=  -6.329877 KE=   0.440576 Meansq displacement=   0.009017
+ 10100 E= -5.8893013 PE=  -6.331875 KE=   0.442574 Meansq displacement=   0.009060
+ 10150 E= -5.8893014 PE=  -6.334531 KE=   0.445230 Meansq displacement=   0.009098
+ 10200 E= -5.8893014 PE=  -6.336964 KE=   0.447663 Meansq displacement=   0.009132
+ 10250 E= -5.8893013 PE=  -6.338601 KE=   0.449299 Meansq displacement=   0.009164
+ 10300 E= -5.8893013 PE=  -6.339446 KE=   0.450145 Meansq displacement=   0.009192
+ 10350 E= -5.8893013 PE=  -6.339970 KE=   0.450669 Meansq displacement=   0.009216
+ 10400 E= -5.8893013 PE=  -6.340777 KE=   0.451476 Meansq displacement=   0.009233
+ 10450 E= -5.8893013 PE=  -6.342297 KE=   0.452996 Meansq displacement=   0.009244
+ 10500 E= -5.8893013 PE=  -6.344564 KE=   0.455262 Meansq displacement=   0.009248
+ 10550 E= -5.8893013 PE=  -6.347126 KE=   0.457825 Meansq displacement=   0.009247
+ 10600 E= -5.8893013 PE=  -6.349127 KE=   0.459826 Meansq displacement=   0.009241
+ 10650 E= -5.8893013 PE=  -6.349616 KE=   0.460314 Meansq displacement=   0.009234
+ 10700 E= -5.8893014 PE=  -6.347955 KE=   0.458653 Meansq displacement=   0.009227
+ 10750 E= -5.8893014 PE=  -6.344083 KE=   0.454782 Meansq displacement=   0.009219
+ 10800 E= -5.8893013 PE=  -6.338580 KE=   0.449278 Meansq displacement=   0.009211
+ 10850 E= -5.8893013 PE=  -6.332617 KE=   0.443315 Meansq displacement=   0.009199
+ 10900 E= -5.8893012 PE=  -6.327614 KE=   0.438313 Meansq displacement=   0.009182
+ 10950 E= -5.8893013 PE=  -6.324487 KE=   0.435186 Meansq displacement=   0.009156
+ 11000 E= -5.8893013 PE=  -6.323151 KE=   0.433850 Meansq displacement=   0.009123
+ 11050 E= -5.8893013 PE=  -6.322975 KE=   0.433674 Meansq displacement=   0.009084
+ 11100 E= -5.8893013 PE=  -6.323627 KE=   0.434326 Meansq displacement=   0.009040
+ 11150 E= -5.8893013 PE=  -6.325327 KE=   0.436025 Meansq displacement=   0.008993
+ 11200 E= -5.8893013 PE=  -6.328351 KE=   0.439050 Meansq displacement=   0.008946
+ 11250 E= -5.8893013 PE=  -6.332291 KE=   0.442990 Meansq displacement=   0.008903
+ 11300 E= -5.8893013 PE=  -6.335853 KE=   0.446551 Meansq displacement=   0.008867
+ 11350 E= -5.8893013 PE=  -6.337670 KE=   0.448369 Meansq displacement=   0.008842
+ 11400 E= -5.8893013 PE=  -6.337414 KE=   0.448112 Meansq displacement=   0.008831
+ 11450 E= -5.8893013 PE=  -6.336051 KE=   0.446749 Meansq displacement=   0.008832
+ 11500 E= -5.8893012 PE=  -6.335040 KE=   0.445739 Meansq displacement=   0.008844
+ 11550 E= -5.8893013 PE=  -6.335278 KE=   0.445977 Meansq displacement=   0.008866
+ 11600 E= -5.8893013 PE=  -6.336714 KE=   0.447412 Meansq displacement=   0.008895
+ 11650 E= -5.8893013 PE=  -6.338743 KE=   0.449442 Meansq displacement=   0.008931
+ 11700 E= -5.8893013 PE=  -6.340733 KE=   0.451432 Meansq displacement=   0.008975
+ 11750 E= -5.8893014 PE=  -6.342160 KE=   0.452859 Meansq displacement=   0.009027
+ 11800 E= -5.8893013 PE=  -6.342523 KE=   0.453221 Meansq displacement=   0.009087
+ 11850 E= -5.8893013 PE=  -6.341426 KE=   0.452125 Meansq displacement=   0.009153
+ 11900 E= -5.8893013 PE=  -6.338830 KE=   0.449528 Meansq displacement=   0.009225
+ 11950 E= -5.8893013 PE=  -6.335182 KE=   0.445881 Meansq displacement=   0.009299
+ 12000 E= -5.8893013 PE=  -6.331288 KE=   0.441987 Meansq displacement=   0.009372
+ 12050 E= -5.8893012 PE=  -6.328038 KE=   0.438737 Meansq displacement=   0.009440
+ 12100 E= -5.8893013 PE=  -6.326197 KE=   0.436896 Meansq displacement=   0.009501
+ 12150 E= -5.8893013 PE=  -6.326125 KE=   0.436824 Meansq displacement=   0.009552
+ 12200 E= -5.8893013 PE=  -6.327493 KE=   0.438191 Meansq displacement=   0.009594
+ 12250 E= -5.8893013 PE=  -6.329394 KE=   0.440092 Meansq displacement=   0.009629
+ 12300 E= -5.8893014 PE=  -6.330955 KE=   0.441654 Meansq displacement=   0.009657
+ 12350 E= -5.8893013 PE=  -6.331895 KE=   0.442594 Meansq displacement=   0.009679
+ 12400 E= -5.8893013 PE=  -6.332544 KE=   0.443243 Meansq displacement=   0.009697
+ 12450 E= -5.8893013 PE=  -6.333417 KE=   0.444116 Meansq displacement=   0.009709
+ 12500 E= -5.8893012 PE=  -6.334785 KE=   0.445483 Meansq displacement=   0.009715
+ 12550 E= -5.8893013 PE=  -6.336571 KE=   0.447270 Meansq displacement=   0.009715
+ 12600 E= -5.8893013 PE=  -6.338552 KE=   0.449251 Meansq displacement=   0.009708
+ 12650 E= -5.8893013 PE=  -6.340563 KE=   0.451262 Meansq displacement=   0.009695
+ 12700 E= -5.8893013 PE=  -6.342476 KE=   0.453175 Meansq displacement=   0.009675
+ 12750 E= -5.8893014 PE=  -6.344057 KE=   0.454755 Meansq displacement=   0.009649
+ 12800 E= -5.8893013 PE=  -6.344937 KE=   0.455636 Meansq displacement=   0.009618
+ 12850 E= -5.8893013 PE=  -6.344656 KE=   0.455354 Meansq displacement=   0.009583
+ 12900 E= -5.8893013 PE=  -6.342858 KE=   0.453557 Meansq displacement=   0.009545
+ 12950 E= -5.8893013 PE=  -6.339640 KE=   0.450339 Meansq displacement=   0.009504
+ 13000 E= -5.8893014 PE=  -6.335532 KE=   0.446231 Meansq displacement=   0.009457
+ 13050 E= -5.8893013 PE=  -6.331164 KE=   0.441863 Meansq displacement=   0.009402
+ 13100 E= -5.8893013 PE=  -6.327113 KE=   0.437812 Meansq displacement=   0.009337
+ 13150 E= -5.8893013 PE=  -6.323984 KE=   0.434683 Meansq displacement=   0.009258
+ 13200 E= -5.8893013 PE=  -6.322386 KE=   0.433084 Meansq displacement=   0.009165
+ 13250 E= -5.8893013 PE=  -6.322719 KE=   0.433418 Meansq displacement=   0.009059
+ 13300 E= -5.8893013 PE=  -6.324947 KE=   0.435646 Meansq displacement=   0.008941
+ 13350 E= -5.8893013 PE=  -6.328571 KE=   0.439269 Meansq displacement=   0.008817
+ 13400 E= -5.8893013 PE=  -6.332839 KE=   0.443538 Meansq displacement=   0.008693
+ 13450 E= -5.8893014 PE=  -6.336924 KE=   0.447623 Meansq displacement=   0.008575
+ 13500 E= -5.8893014 PE=  -6.339980 KE=   0.450679 Meansq displacement=   0.008469
+ 13550 E= -5.8893014 PE=  -6.341336 KE=   0.452034 Meansq displacement=   0.008380
+ 13600 E= -5.8893013 PE=  -6.340763 KE=   0.451462 Meansq displacement=   0.008311
+ 13650 E= -5.8893014 PE=  -6.338503 KE=   0.449201 Meansq displacement=   0.008262
+ 13700 E= -5.8893013 PE=  -6.335128 KE=   0.445827 Meansq displacement=   0.008232
+ 13750 E= -5.8893013 PE=  -6.331519 KE=   0.442218 Meansq displacement=   0.008219
+ 13800 E= -5.8893012 PE=  -6.328738 KE=   0.439437 Meansq displacement=   0.008218
+ 13850 E= -5.8893012 PE=  -6.327628 KE=   0.438327 Meansq displacement=   0.008229
+ 13900 E= -5.8893013 PE=  -6.328391 KE=   0.439090 Meansq displacement=   0.008246
+ 13950 E= -5.8893013 PE=  -6.330465 KE=   0.441164 Meansq displacement=   0.008271
+ 14000 E= -5.8893013 PE=  -6.332754 KE=   0.443453 Meansq displacement=   0.008302
+ 14050 E= -5.8893013 PE=  -6.334157 KE=   0.444856 Meansq displacement=   0.008339
+ 14100 E= -5.8893013 PE=  -6.334176 KE=   0.444875 Meansq displacement=   0.008381
+ 14150 E= -5.8893013 PE=  -6.333205 KE=   0.443904 Meansq displacement=   0.008424
+ 14200 E= -5.8893012 PE=  -6.332387 KE=   0.443086 Meansq displacement=   0.008465
+ 14250 E= -5.8893012 PE=  -6.333198 KE=   0.443896 Meansq displacement=   0.008500
+ 14300 E= -5.8893012 PE=  -6.336532 KE=   0.447231 Meansq displacement=   0.008529
+ 14350 E= -5.8893013 PE=  -6.341664 KE=   0.452363 Meansq displacement=   0.008554
+ 14400 E= -5.8893013 PE=  -6.346331 KE=   0.457029 Meansq displacement=   0.008579
+ 14450 E= -5.8893014 PE=  -6.348164 KE=   0.458863 Meansq displacement=   0.008609
+ 14500 E= -5.8893014 PE=  -6.346145 KE=   0.456844 Meansq displacement=   0.008645
+ 14550 E= -5.8893013 PE=  -6.340953 KE=   0.451651 Meansq displacement=   0.008686
+ 14600 E= -5.8893013 PE=  -6.334279 KE=   0.444978 Meansq displacement=   0.008727
+ 14650 E= -5.8893012 PE=  -6.327948 KE=   0.438647 Meansq displacement=   0.008761
+ 14700 E= -5.8893012 PE=  -6.323441 KE=   0.434140 Meansq displacement=   0.008784
+ 14750 E= -5.8893012 PE=  -6.321731 KE=   0.432430 Meansq displacement=   0.008792
+ 14800 E= -5.8893012 PE=  -6.323150 KE=   0.433849 Meansq displacement=   0.008781
+ 14850 E= -5.8893012 PE=  -6.327309 KE=   0.438008 Meansq displacement=   0.008754
+ 14900 E= -5.8893013 PE=  -6.333236 KE=   0.443935 Meansq displacement=   0.008713
+ 14950 E= -5.8893013 PE=  -6.339649 KE=   0.450347 Meansq displacement=   0.008665
+ 15000 E= -5.8893013 PE=  -6.345126 KE=   0.455824 Meansq displacement=   0.008616
+ 15050 E= -5.8893014 PE=  -6.348286 KE=   0.458985 Meansq displacement=   0.008570
+ 15100 E= -5.8893014 PE=  -6.348229 KE=   0.458927 Meansq displacement=   0.008533
+ 15150 E= -5.8893013 PE=  -6.345136 KE=   0.455835 Meansq displacement=   0.008506
+ 15200 E= -5.8893013 PE=  -6.340362 KE=   0.451061 Meansq displacement=   0.008487
+ 15250 E= -5.8893012 PE=  -6.335570 KE=   0.446269 Meansq displacement=   0.008474
+ 15300 E= -5.8893013 PE=  -6.331714 KE=   0.442413 Meansq displacement=   0.008465
+ 15350 E= -5.8893013 PE=  -6.328891 KE=   0.439589 Meansq displacement=   0.008458
+ 15400 E= -5.8893012 PE=  -6.326878 KE=   0.437577 Meansq displacement=   0.008452
+ 15450 E= -5.8893013 PE=  -6.325491 KE=   0.436189 Meansq displacement=   0.008447
+ 15500 E= -5.8893013 PE=  -6.324638 KE=   0.435337 Meansq displacement=   0.008443
+ 15550 E= -5.8893013 PE=  -6.324401 KE=   0.435100 Meansq displacement=   0.008441
+ 15600 E= -5.8893012 PE=  -6.325004 KE=   0.435703 Meansq displacement=   0.008442
+ 15650 E= -5.8893013 PE=  -6.326580 KE=   0.437278 Meansq displacement=   0.008447
+ 15700 E= -5.8893013 PE=  -6.328974 KE=   0.439673 Meansq displacement=   0.008457
+ 15750 E= -5.8893013 PE=  -6.331797 KE=   0.442496 Meansq displacement=   0.008472
+ 15800 E= -5.8893013 PE=  -6.334644 KE=   0.445343 Meansq displacement=   0.008495
+ 15850 E= -5.8893013 PE=  -6.337279 KE=   0.447978 Meansq displacement=   0.008525
+ 15900 E= -5.8893013 PE=  -6.339603 KE=   0.450301 Meansq displacement=   0.008564
+ 15950 E= -5.8893013 PE=  -6.341450 KE=   0.452149 Meansq displacement=   0.008610
+ 16000 E= -5.8893014 PE=  -6.342476 KE=   0.453174 Meansq displacement=   0.008664
+ 16050 E= -5.8893013 PE=  -6.342351 KE=   0.453050 Meansq displacement=   0.008726
+ 16100 E= -5.8893013 PE=  -6.341150 KE=   0.451849 Meansq displacement=   0.008793
+ 16150 E= -5.8893013 PE=  -6.339405 KE=   0.450103 Meansq displacement=   0.008862
+ 16200 E= -5.8893013 PE=  -6.337642 KE=   0.448341 Meansq displacement=   0.008932
+ 16250 E= -5.8893013 PE=  -6.335922 KE=   0.446620 Meansq displacement=   0.008998
+ 16300 E= -5.8893013 PE=  -6.333854 KE=   0.444553 Meansq displacement=   0.009059
+ 16350 E= -5.8893013 PE=  -6.331030 KE=   0.441728 Meansq displacement=   0.009112
+ 16400 E= -5.8893013 PE=  -6.327373 KE=   0.438072 Meansq displacement=   0.009154
+ 16450 E= -5.8893013 PE=  -6.323208 KE=   0.433907 Meansq displacement=   0.009182
+ 16500 E= -5.8893013 PE=  -6.319121 KE=   0.429820 Meansq displacement=   0.009191
+ 16550 E= -5.8893013 PE=  -6.315907 KE=   0.426605 Meansq displacement=   0.009180
+ 16600 E= -5.8893012 PE=  -6.314587 KE=   0.425286 Meansq displacement=   0.009144
+ 16650 E= -5.8893012 PE=  -6.316140 KE=   0.426838 Meansq displacement=   0.009083
+ 16700 E= -5.8893013 PE=  -6.320852 KE=   0.431551 Meansq displacement=   0.009000
+ 16750 E= -5.8893013 PE=  -6.328009 KE=   0.438708 Meansq displacement=   0.008901
+ 16800 E= -5.8893014 PE=  -6.336256 KE=   0.446955 Meansq displacement=   0.008792
+ 16850 E= -5.8893013 PE=  -6.344073 KE=   0.454771 Meansq displacement=   0.008684
+ 16900 E= -5.8893014 PE=  -6.349960 KE=   0.460659 Meansq displacement=   0.008585
+ 16950 E= -5.8893014 PE=  -6.352716 KE=   0.463414 Meansq displacement=   0.008502
+ 17000 E= -5.8893013 PE=  -6.352023 KE=   0.462722 Meansq displacement=   0.008439
+ 17050 E= -5.8893013 PE=  -6.348976 KE=   0.459674 Meansq displacement=   0.008397
+ 17100 E= -5.8893012 PE=  -6.345872 KE=   0.456571 Meansq displacement=   0.008373
+ 17150 E= -5.8893012 PE=  -6.344898 KE=   0.455597 Meansq displacement=   0.008364
+ 17200 E= -5.8893013 PE=  -6.346428 KE=   0.457127 Meansq displacement=   0.008369
+ 17250 E= -5.8893013 PE=  -6.348730 KE=   0.459429 Meansq displacement=   0.008388
+ 17300 E= -5.8893013 PE=  -6.349410 KE=   0.460109 Meansq displacement=   0.008423
+ 17350 E= -5.8893014 PE=  -6.346955 KE=   0.457654 Meansq displacement=   0.008475
+ 17400 E= -5.8893013 PE=  -6.341393 KE=   0.452092 Meansq displacement=   0.008539
+ 17450 E= -5.8893013 PE=  -6.334206 KE=   0.444905 Meansq displacement=   0.008611
+ 17500 E= -5.8893013 PE=  -6.327642 KE=   0.438341 Meansq displacement=   0.008684
+ 17550 E= -5.8893012 PE=  -6.323579 KE=   0.434278 Meansq displacement=   0.008751
+ 17600 E= -5.8893012 PE=  -6.322582 KE=   0.433281 Meansq displacement=   0.008809
+ 17650 E= -5.8893012 PE=  -6.323839 KE=   0.434537 Meansq displacement=   0.008857
+ 17700 E= -5.8893013 PE=  -6.326019 KE=   0.436718 Meansq displacement=   0.008898
+ 17750 E= -5.8893013 PE=  -6.328245 KE=   0.438944 Meansq displacement=   0.008935
+ 17800 E= -5.8893013 PE=  -6.330302 KE=   0.441001 Meansq displacement=   0.008969
+ 17850 E= -5.8893013 PE=  -6.332172 KE=   0.442871 Meansq displacement=   0.009003
+ 17900 E= -5.8893013 PE=  -6.333635 KE=   0.444333 Meansq displacement=   0.009039
+ 17950 E= -5.8893013 PE=  -6.334333 KE=   0.445031 Meansq displacement=   0.009076
+ 18000 E= -5.8893013 PE=  -6.334113 KE=   0.444811 Meansq displacement=   0.009114
+ 18050 E= -5.8893014 PE=  -6.333131 KE=   0.443830 Meansq displacement=   0.009152
+ 18100 E= -5.8893013 PE=  -6.331573 KE=   0.442271 Meansq displacement=   0.009189
+ 18150 E= -5.8893013 PE=  -6.329550 KE=   0.440249 Meansq displacement=   0.009222
+ 18200 E= -5.8893013 PE=  -6.327525 KE=   0.438224 Meansq displacement=   0.009249
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 17995491.5 ON d06-24 CANCELLED AT 2023-12-03T22:58:33 ***
+slurmstepd: error: *** JOB 17995491 ON d06-24 CANCELLED AT 2023-12-03T22:58:33 ***

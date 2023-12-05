@@ -1,0 +1,14 @@
+==========================================
+SLURM_JOB_ID = 17992012
+SLURM_JOB_NODELIST = e06-07
+TMPDIR = /tmp/SLURM_17992012
+==========================================
+srun: error: e06-07: task 0: Exited with exit code 2
+slurmstepd: error: execve(): /home1/jjmeyer/MASC575_FinalProject_Fall2023/MD2/./a.out: No such file or directory
+/var/spool/slurm/d/job17992012/slurm_script: line 14: cd..: command not found
+cp: cannot stat ‘MD2/xvconf’: No such file or directory
+/var/spool/slurm/d/job17992012/slurm_script: line 16: cd: MD3: No such file or directory
+cp: missing destination file operand after ‘MD3’
+Try 'cp --help' for more information.
+srun: error: e06-07: task 0: Exited with exit code 2
+slurmstepd: error: execve(): /home1/jjmeyer/MASC575_FinalProject_Fall2023/MD2/./a.out: No such file or directory

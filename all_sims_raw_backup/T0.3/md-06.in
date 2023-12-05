@@ -1,0 +1,23 @@
+20000  500  50      # istep, istable, iprint
+0   0   0           # ini_new, iscale_x, iscale_v
+0.3  1.557          # req_temp, xlcd
+6   6   6           # ncell(3)
+0   100  0.5        # isquench, iquench, coeff_quench
+0.0                 # lfreeze
+
+istep is the # of time steps, istable specifies after which step we 
+start calculating properties
+iprint means the program will print properties per so many steps.
+
+ini_new (1 if generating new system, 0 if reading in from file)
+iscale_x (1 if scaling x, 0 no scaling), iscale_v(1 if scaling v, 0 no scaling)
+
+req_temp is the preset temperature and xlcd is the lattice constant.
+They determine the initial x and v scale if iscale_x = 1 or iscale_v = 1.
+
+ncell(3) are the  numbers of unit cells in x, y, z direction.
+Their product shouldn't exceed 2500 and it has no effect when ini_new=0.
+
+isquench (1 if quenching, 0 no quenching), iquench is the # of steps 
+between quenching,
+and coeff_quench is the quenching coefficient.
